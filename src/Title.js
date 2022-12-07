@@ -6,10 +6,6 @@ function Title(props) {
 
     const imageStyle = {
         position: "absolute",
-        width: "100%",
-        height: "15vw",
-        objectFit: "cover",
-        opacity: "0.35",
     };
 
     const textStyle = {
@@ -25,7 +21,7 @@ function Title(props) {
     return(
     <div className={props.class} style={{position: "relative"}}>
         <div style={boxStyle}></div>
-        <img style={imageStyle} src={props.image} alt="image" />
+        <img style={imageStyle} className="Title" src={props.image} alt="image" />
         <span style={textStyle}>{props.text}</span>
     </div>
   );

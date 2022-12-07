@@ -15,6 +15,7 @@ function App() {
       <div className="content">
         <NavBar class="Sidebar" />
         <Routes>
+          <Route exact path="" element={<Home />}></Route>
           <Route exact path="/" element={<Home />}></Route>
           <Route exact path="/Plans" element={<Plans />}></Route>
           <Route exact path="/Feasibility" element={<Feasibility />}></Route>
