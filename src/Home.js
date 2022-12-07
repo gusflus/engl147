@@ -26,7 +26,7 @@ return (
                 <li>During this process energy is reelased as light and heat.</li>
                 <li>This is the most efficient and sustainable source of energy known.</li>
                 <li>Many countries are working to develop this technology on their own, but with very little international collaboration.</li>
-                <li>Countries that collaborate on development of nuclear fusion energy generation will develop their technologies further and faster than countries that do not.</li>
+                <li>Energy generated from nuclear fusion costs less to produce than energy from fossil fuels.</li>
             </ul>
         </div>
 
@@ -41,6 +41,7 @@ return (
                 <li>A dot that is further right and further up is a more successful reactor.</li>
                 <li>The blue zone in the top right is the breakeven zone.</li>
                 <li>This chart shows that international reactors are more successful than domestic ones.</li>
+                <li>Countries that collaborate on development of nuclear fusion energy generation will develop their technologies further and faster than countries that do not.</li>
             </ul>
         </div>
 

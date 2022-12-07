@@ -18,7 +18,7 @@ return (
       To implement this plan, the United Nations would need to decide if they wish to implement such a policy. Next the General Assembly would have to vote on whether what is needed to offer this prize to the winner of the competition.
       Because all of the nations involved in the competition are part of the United Nations, and conduct their research with their own funding, there is no organizational funding necessary. The competitors will fund their own research in hopes of winning the competition.
       Winning the competition means that drastic scientific developments will occur in their nation, increasing its noted ability as well as its power to partner with other nations on technology developments in the future.
-      While the true winner would get a collaborative facility on its nation's soil, the true winner of this competition, however clichet it may sound, is all of the competitors. The vast amount of knowledge that all nations will hsare by the end of this event would almost certainly push humanity towards a fossil-fuel free future.
+      While the true winner would get a collaborative facility on its nation's soil, the true winner of this competition, however cliche it may sound, is all of the competitors. The vast amount of knowledge that all nations will share by the end of this event would almost certainly push humanity towards a fossil-fuel free future.
       <br />This would not be the first time that the United Nations implemented a policty to help advance the world toward a world with less emissions. The 2016 Paris Climate Accord was similar to this proposed competition, and it proves that the United Nations has, can, and should implement this policy to make out world a healthier place.
     </p>
 
@@ -28,7 +28,7 @@ return (
 
     <div style={{gridColumn: "3 / 5", gridRow: "6"}}>
       <img style={{height: "150%", objectFit: "cover", display: "block", height: "200%"}} src={chart3} alt="chart" />
-      <p style={{textAlign: "center", fontSize: "0.85vw"}}>Fig. X “Population Willingness to Pay for Smart Grid Benefits”, Gus Flusser</p>
+      <p style={{textAlign: "center", fontSize: "0.85vw"}}>Fig 5 “Population Willingness to Pay for Smart Grid Benefits”, Gus Flusser</p>
     </div>
 
     <Subtitle class="Worth" image={image24} text="Is it worth the Sacrifice?" />

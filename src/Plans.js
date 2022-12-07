@@ -32,15 +32,15 @@ return (
 
       <Subtitle class="Plan3" image={image19} text="Plan 3" />
       <ul style={{gridColumn: "3 / 5", gridRow: "6", color: "black", margin: "0", width: "90%"}}><h4>Incentivize International Collaboration on Nuclear Fusion Energy Generation:</h4>
-        <li>This plan would entail gathering the researching nations together and structuring a collaborative environment for all to share information where all nations share knowledge with each other</li>
-        <li>This plan would involve all nations currently researching nuclear fusion energy generation</li>
+        <li>This plan would entail gathering the researching nations together and structuring a collaborative environment for all to share information where all nations share knowledge with each other.</li>
+        <li>This plan would involve all nations currently researching nuclear fusion energy generation.</li>
         <li>This plan would fulfill the primary value of developing this technology quickly and allwoing nations to collaborate in a stimulating and symbiotic manner.</li>
       </ul>
       
       <Subtitle class="Plan4" image={image18} text="The Best Plan of Action" />
       <div style={{gridColumn: "4", gridRow: "9"}}>
-        <img src={image9} alt="image9" style={{width: "120%"}} />
-        <p style={{textAlign: "center", fontSize: "0.85vw", marginLeft: "5vw"}}>Fig 5 "Paris Climate Agreement", United Nations</p>
+        <img src={image9} alt="image9" style={{width: "100%"}} />
+        <p style={{textAlign: "center", fontSize: "0.85vw"}}>Fig 4 "Paris Climate Agreement", United Nations</p>
       </div>
       <p style={{gridColumn: "2 / 4", gridRow: "9", color: "black", margin: "0", width: "100%"}}><br />The best plan of action requires taking this latest plan, incentives, and getting creative. All countries currently developing this technology individually are doing so for many reasons, but several important ones are to generate profit by selling the technology once it is developed, and to send a message of their country's technological ability to other nations. Expanding upon the idea of incentives, the United Nations could implement a competition within nations interested in developing nuclear fusion technology. If several nations would participate by collaborating at international facilities and sharing information they gather individually for the greater development of this technology, the United Nations could reccomend to its members that the nation that contributed the most could choose the location for the next international nuclear fusion energy generation facility. The United Nations General Assembly has gotten its members together before to create the Paris Climate Accords, so this would not be completely out of reach for this assembly. This would be a tremendous incentive for all nations currently involved in nuclear fusion energy generation research. The Joint European Torus facility in England is very well known for the progress it has made in past and recent years, and a new facility that is more capable would be a great incentive for all nations willing to share their research.</p>
 
@@ -63,7 +63,7 @@ return (
       </ul>
 
       <Subtitle class="Opp" image={image22} text="Is this the right Solution?" />
-      <ul style={{gridColumn: "2 / 5", gridRow: "16", color: "black", margin: "0", width: "90%"}}>
+      <ul style={{gridColumn: "2 / 5", gridRow: "16", color: "black", margin: "0", width: "90%", listStyle: "none"}}>
         <h4 style={{width: "100%"}}>Allowing nations to compete for a research reactor in their nation us not the perfect idea:</h4>
         <li>Competitions often involve cheating, but the United Nations is more than capable of ensureing cheaters receive the effect of their corruption.</li>
         <li>After a winner is announced, members of the competition could argue that the developments they provided were more important than the winner's shared developments. While this could occur in some conflicts, the winner of this competition will be voted on by the United Nations General assembly, so all nations will get a vote in who they believe contributed the most.</li>
